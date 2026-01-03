@@ -32,9 +32,7 @@ export const AboutSection: React.FC = () => {
                             Ene The Rave is a Nigerian music artist and producer whose work explores emotion, identity, and modern African expression through sound. As an emerging independent artist, Ene blends contemporary African influences with rap and alternative elements creating music that is both intimate and forward-looking.
                         </p>
                         <p>
-                            Over the years, I&apos;ve developed a signature sound that merges atmospheric textures
-                            with hard-hitting rhythms, creating immersive experiences that resonate with
-                            listeners across the globe.
+                            Ene has developed a signature sound over the years. One he likes to call &apos;rap symphony&apos; it merges atmospheric textures with soft rhythmic symphonies. Creating immersive experiences resonate with listeners.
                         </p>
                     </div>
 

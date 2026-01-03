@@ -17,7 +17,7 @@ const projects: Project[] = [
     {
         id: '2',
         title: 'Steady',
-        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        description: 'Experimental R&B piece blending organic and synthetic sounds.',
         platform: 'Unreleased',
         embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=enetrack3_fgwcdb&profile=cld-default',
         releaseDate: '----',
@@ -51,7 +51,7 @@ const projects: Project[] = [
     {
         id: '6',
         title: 'Deserters Old',
-        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        description: 'Experimental soul music blending organic and synthetic sounds.',
         platform: 'Unreleased',
         embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=enetrack2_nz03ya&profile=cld-default',
         releaseDate: '----',
