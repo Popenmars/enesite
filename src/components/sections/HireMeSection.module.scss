@@ -155,4 +155,14 @@
         transform: translateY(-0.125rem);
     }
 }
+.mars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    a{
+        font-size: 12px;
+        color: rgba(255, 255, 255, 0.6);
+    }
+}
 
