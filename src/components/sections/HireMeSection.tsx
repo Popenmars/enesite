@@ -76,7 +76,7 @@ export const HireMeSection: React.FC = () => {
                     </div>
                 </div>
                 <div className={styles.mars}>
-                    <a href="https://www.linkedin.com/in/martin-praise/">designedby &lt;marsynergy /&gt;</a>
+                    <a href="https://martinpraise-profile.vercel.app/">designedby &lt;marsynergy /&gt;</a>
                 </div>
             </div>
         </section>
