@@ -59,7 +59,7 @@ const projects: Project[] = [
     {
         id: '7',
         title: 'Karashika',
-        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        description: 'Producer duties collaborated with badboy thugger on this art.',
         platform: 'All Platforms',
         embedUrl: 'https://open.spotify.com/embed/track/224zMLb6mV9u76Y9g7Ikh5?si=AxO89doOQDaXKfcB6s_EqQ',
         releaseDate: '2024',

@@ -9,9 +9,9 @@ export const AboutSection: React.FC = () => {
         'Studio One',
         'Logic Pro',
         'Native Instruments',
-        'Audio interfaces',
+        'Alceron interfaces',
         'Plugins & virtual instruments',
-        ' & Sure Digital Microphones',
+        'Alceron Microphones',
         'MIDI & controllers',
     ];
 
