@@ -33,8 +33,8 @@ const projects: Project[] = [
     },
     {
         id: '4',
-        title: 'Ethereal Waves',
-        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        title: 'Unnamed',
+        description: 'Blending hip-hop with R&B sound',
         platform: 'Unreleased',
         embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=enetrack1_zgk0wd&profile=cld-default',
         releaseDate: '----',
@@ -42,7 +42,7 @@ const projects: Project[] = [
     {
         id: '5',
         title: 'On Sight',
-        description: 'Hard-hitting trap production with cinematic elements and deep 808s.',
+        description: 'Featured by TimGii on Amapiano',
         platform: 'All Platforms',
         embedUrl: 'https://open.spotify.com/embed/track/0cIYHBfiVpBc2VBvrpps7n?si=ol9zH8aaRnCuH7X1gAkLRQ',
         releaseDate: '2024',

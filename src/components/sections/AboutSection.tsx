@@ -6,16 +6,16 @@ import styles from './AboutSection.module.scss';
 export const AboutSection: React.FC = () => {
     const tools = [
         'FL Studio',
-        'Cubase',
+        'Studio One',
         'Logic Pro',
         'Native Instruments',
         'Audio interfaces',
         'Plugins & virtual instruments',
-        'Microphones',
+        ' & Sure Digital Microphones',
         'MIDI & controllers',
     ];
 
-    const genres = ['Afrobeats', 'Classical', 'Trap', 'R&B', 'Electronic', 'Hip-Hop', 'Jazz', 'Rock', 'Pop', 'Raggae'];
+    const genres = ['Afrobeats', 'Hip-Hop', 'Trap', 'Pop', 'R&B', 'Electronic', 'Jazz', 'Rock', 'Raggae', 'Classical'];
 
     return (
         <section id="about" className={styles.about}>
