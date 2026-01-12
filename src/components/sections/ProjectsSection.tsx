@@ -81,6 +81,38 @@ const projects: Project[] = [
         embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=enetarck6_x6yfg3&profile=cld-default',
         releaseDate: '----',
     },
+    {
+        id: '9',
+        title: 'Unnamed',
+        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        platform: 'Unreleased',
+        embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=ene4_fqexvf&profile=cld-default',
+        releaseDate: '----',
+    },
+    {
+        id: '9',
+        title: 'Sound Tag',
+        description: 'Hear this and know EneTheRave produced this',
+        platform: 'Unreleased',
+        embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=ene1_eoeifm&profile=cld-default',
+        releaseDate: '----',
+    },
+    {
+        id: '9',
+        title: 'Unnamed',
+        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        platform: 'Unreleased',
+        embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=ene2_o3k4r5&profile=cld-default',
+        releaseDate: '----',
+    },
+    {
+        id: '9',
+        title: 'Unnamed',
+        description: 'Experimental electronic piece blending organic and synthetic sounds.',
+        platform: 'Unreleased',
+        embedUrl: 'https://player.cloudinary.com/embed/?cloud_name=dily8qxog&public_id=ene3_c0basd&profile=cld-default',
+        releaseDate: '----',
+    },
 ];
 
 export const ProjectsSection: React.FC = () => {
